@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 It was a bright cold day in April.
 kasaa kayyy xoriant?
 =======
 It was a bright cold day in April
 It definitely was	
 >>>>>>> 6eb59977908176f7e9b6d271911434383f09da67
+=======
+
+It was a bright cold day in April !
+	-by Harish Chetty
+>>>>>>> 014ec6f9f73827affd90a1732cdb29adc341d79c
