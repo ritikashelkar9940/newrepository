@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 It was a bright cold day in April.
 kasaa kayyy xoriant?
+=======
+It was a bright cold day in April
+It definitely was	
+>>>>>>> 6eb59977908176f7e9b6d271911434383f09da67
